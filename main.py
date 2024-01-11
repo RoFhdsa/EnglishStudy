@@ -17,4 +17,6 @@ CreateMenu(isCreate=True)
 SyncORM.insert_tables()
 SyncORM.select_tables()
 SyncORM.update_tables()
-SyncORM.insert_tables_ResumeOrm()"""
+SyncORM.insert_tables_ResumeOrm()
+sdsd
+"""

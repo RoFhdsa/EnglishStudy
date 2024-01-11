@@ -1,0 +1,1 @@
+conn = {'MY_PATH':'A:/_work/Phyton/TestDB/test'}

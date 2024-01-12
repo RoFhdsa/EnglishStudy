@@ -1,0 +1,9 @@
+### AndroidStudio template
+# Covers files to be ignored for android development using Android Studio.
+
+.idea
+#мои
+*.db
+test.py
+venv/
+settingsDB.py

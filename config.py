@@ -8,3 +8,4 @@ class Settings ():
         return f'sqlite:///{self.path}.db'
 
 settings = Settings()
+print(settings.DATABASE_URL())

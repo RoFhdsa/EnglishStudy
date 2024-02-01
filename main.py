@@ -13,7 +13,7 @@ from ACCESSORY.my_lib_def import retern_dict_use_data
 #MenuTGbot = MenuTGbot()
 CreateMenu(isCreate=True)
 
-bot = telebot.TeleBot('6225588552:AAHCipXm3p4sY4jcrprdEkjNivaDNFikYfc')
+bot = telebot.TeleBot()
 
 @bot.message_handler(commands=['menu'])
 def start_message(message):
